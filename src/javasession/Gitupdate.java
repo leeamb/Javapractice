@@ -5,6 +5,8 @@ public class Gitupdate {
 	
 	public void getname() {
 		System.out.println("Hi Leena");
+		System.out.println("This is Preksha");
+		
 	}
 
 }
